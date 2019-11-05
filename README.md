@@ -9,9 +9,9 @@ BadUSB cable based on Attiny85 microcontroller with data line enabled.
 
 **PCB design:** AprilBrother
 
-**Manufacturer and distributor: AprilBrother
+**Manufacturer and distributor:** AprilBrother
 
-**Other collaborators:** ForensicSecurity & Ignacio Díaz, Innovart & Jorge Mata, Roland Santiago, Luca Bongiorni, Marcus Mengs, Mike Groover...
+**Other collaborators:** Ignacio Díaz & Forensic Security, Innovart & Jorge Mata, Roland Santiago, Luca Bongiorni, Marcus Mengs, Mike Groover...
 
 The developers and collaborators of this project do not earn money with this. 
 You can invite me for a coffee to further develop Low-Cost hacking devices. If you don't invite me for a coffee, nothing happens, I will continue developing devices.
@@ -39,7 +39,7 @@ Not available yet
 
 # Acknowledgement
 
-**PCB design first version (Rev0):** Jorge Mata & Innovart
+**PCB design first version (Rev0):** Innovart & Innovart
 
 	* Jorge Mata: @jor_mata
 
@@ -236,7 +236,7 @@ When you connect a multimedia device (e.g. smartphone, mp3, etc.) to Evil Crow c
 
 You can understand this with the following basic image. Anyway, in the section "Attack options", you can see the payload execution situations with/without the data line:
 
-![Data Line](https://github.com/joelsernamoreno/EvilCrow-Cable/blob/master/images/dataline.png)
+![Data Line](https://github.com/joelsernamoreno/EvilCrow-Cable/blob/master/images/dataline.PNG)
 
 # Attack options
 
