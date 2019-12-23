@@ -18,8 +18,10 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
 
-**Buy Evil Crow Cable**:
-Not available yet
+**For Sale at:**
+
+* [Aliexpress Shop](https://es.aliexpress.com/item/4000358004044.html)
+* [Tindie Shop](https://www.tindie.com/products/aprbrother/evil-crow-cable/)
 
 **Summary:**
 1. Acknowledgement
