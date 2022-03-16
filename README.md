@@ -9,7 +9,9 @@ BadUSB cable based on Attiny85 microcontroller with data line enabled.
 
 **PCB design:** AprilBrother
 
-**Manufacturer and distributor:** AprilBrother
+**Manufacturer and distributor:** AprilBrother (@aprbrother).
+
+**Distributor from United Kingdom:** KSEC Worldwide (@KSEC_KC).
 
 **Other collaborators:** Ignacio Díaz & Forensic Security, Innovart & Jorge Mata, Roland Santiago, Luca Bongiorni, Marcus Mengs, Mike Groover...
 
@@ -18,10 +20,14 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
 
-**For Sale at:**
+**For sale with April Brother (shipping from China):** 
 
 * [Aliexpress Shop](https://es.aliexpress.com/item/4000358004044.html)
 * [Tindie Shop](https://www.tindie.com/products/aprbrother/evil-crow-cable/)
+
+**For sale with KSEC Worldwide (shipping from United Kingdom):**
+
+* Evil Crow Cable: https://labs.ksec.co.uk/product/evil-crow-cable/
 
 **Summary:**
 1. Acknowledgement
