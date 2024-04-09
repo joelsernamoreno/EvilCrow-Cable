@@ -22,7 +22,8 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 **For sale with April Brother (shipping from China):** 
 
-* [Aliexpress Shop](https://es.aliexpress.com/item/4000358004044.html)
+* [Aliexpress Shop (MicroUSB)](https://www.aliexpress.us/item/3256806547863881.html)
+* [Aliexpress Shop (Type-C)](https://www.aliexpress.us/item/3256806547844804.html)
 * [Tindie Shop](https://www.tindie.com/products/aprbrother/evil-crow-cable/)
 
 **For sale with KSEC Worldwide (shipping from United Kingdom):**
