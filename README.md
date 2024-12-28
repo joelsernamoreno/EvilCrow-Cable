@@ -1,7 +1,7 @@
 # EvilCrow-Cable
 BadUSB cable based on Attiny85 microcontroller with data line enabled.
 
-![EvilCrow](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Logo1.png)
+![EvilCrow](https://github.com/joelsernamoreno/EvilCrow-Cable/blob/master/images/Logo1.png)
 
 **Idea:** Joel Serna & Ernesto Sánchez
 
@@ -20,15 +20,37 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
 
-**For sale with April Brother (shipping from China):** 
+**Available with April Brother (shipping from China):** 
 
-* [Aliexpress Shop (MicroUSB)](https://www.aliexpress.us/item/3256806547863881.html)
-* [Aliexpress Shop (Type-C)](https://www.aliexpress.us/item/3256806547844804.html)
-* [Tindie Shop](https://www.tindie.com/products/aprbrother/evil-crow-cable/)
+* USB-A to USB-C:
 
-**For sale with KSEC Worldwide (shipping from United Kingdom):**
+	* Aliexpress: https://www.aliexpress.us/item/3256806547844804.html
+	* Tindie: https://www.tindie.com/products/aprbrother/evil-crow-cable-typec/
 
-* Evil Crow Cable: https://labs.ksec.co.uk/product/evil-crow-cable/
+* USB-A to MicroUSB:
+
+	* Aliexpress: https://www.aliexpress.us/item/3256806547863881.html
+	* Tindie: https://www.tindie.com/products/aprbrother/evil-crow-cable/
+
+**Available with SAPSAN Cybersec & Military (shipping from EU, Poland):**
+
+* USB-A to USB-C:
+	
+	* https://sapsan-sklep.pl/en/products/evil-crow-cable
+
+* USB-A to MicroUSB:
+
+	* https://sapsan-sklep.pl/en/products/evil-crow-cable
+
+**Available with KSEC Worldwide (shipping from United Kingdom):**
+
+* USB-A to USB-C:
+
+	* https://labs.ksec.co.uk/product/evil-crow-cable-usb-c/
+
+* USB-A to MicroUSB:
+
+	* https://labs.ksec.co.uk/product/evil-crow-cable/
 
 **Summary:**
 1. Acknowledgement
