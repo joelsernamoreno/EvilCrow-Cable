@@ -52,6 +52,10 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 	* https://labs.ksec.co.uk/product/evil-crow-cable/
 
+**Available with Tienda Espía (shipping from Mexico):**
+
+	* https://tiendaespia.com.mx/producto/evil-crow-cable-badusb/
+
 **Summary:**
 1. Acknowledgement
 2. Introduction
