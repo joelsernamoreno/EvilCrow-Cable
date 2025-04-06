@@ -54,6 +54,8 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 **Available with Tienda Espía (shipping from Mexico):**
 
+* USB-A to MicroUSB and USB-A to USB-C:
+
 	* https://tiendaespia.com.mx/producto/evil-crow-cable-badusb/
 
 **Summary:**
